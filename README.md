@@ -2,7 +2,7 @@
 
 **Created by:** Karan Tatu  
 **Course:** B.E. Civil Engineering, AISSMS College of Engineering, Pune  
-**Language Used:** Python 🐍  
+**Language Used:** Python 
 
 This repository includes **ten Python-based assignments** developed for the subject *Programming in Civil Engineering*.  
 Each assignment focuses on applying Python programming to solve analytical and computational problems in different branches of civil engineering.  
@@ -25,19 +25,9 @@ These programs demonstrate how coding can enhance accuracy, speed, and understan
 
 ---
 
-### ⚙️ Tools and Libraries
-
-- **Python 3.x**  
-- **NumPy** – Numerical and matrix operations  
-- **Pandas** – Data handling and analysis  
-- **Matplotlib** – Graphical visualization  
-- **Math** – Engineering calculations  
-
----
-
 ### 🌟 About the Creator
 
-👷‍♂️ **Karan Tatu** – A Civil Engineering student passionate about combining engineering principles with programming tools to create smart, data-driven solutions for infrastructure design and analysis.
+👷‍♂️ **Karan Tatu** – A Civil Engineering student.
 
 ---
 
